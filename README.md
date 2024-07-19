@@ -4,7 +4,7 @@
 Instalar las siguientes herramientas:
   - Node.js 
 
-## Instalación
+ Instalación
   1. **Clona el repositorio:**
     - git clone https://github.com/FernandoMoreno2/EVA4FRONTE.git
 
@@ -14,7 +14,7 @@ Instalar las siguientes herramientas:
   3. **Instala las dependencias:**
     - npm install
 
-## Ejecución
+ Ejecución
 
 Para ejecutar el proyecto en modo de desarrollo:
 
