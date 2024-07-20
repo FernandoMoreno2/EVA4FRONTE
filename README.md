@@ -22,3 +22,6 @@ Para ejecutar el proyecto en modo de desarrollo:
 
 Esto iniciará la aplicación y la abrirá en tu navegador por defecto, generalmente en http://localhost:3000.
 
+
+## En algunas versiones de node es necesario deshabilitar el modo FIPS 
+  - $env:NODE_OPTIONS = "--openssl-legacy-provider"
